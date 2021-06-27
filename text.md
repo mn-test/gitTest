@@ -1,20 +1,20 @@
 # README
 
-## Highlights
+## Highlights :grinning: :whale:
 
 1.  Point 1
 2.  Point 2
 3.  Point 3
 
-## Summary
+## Summary :muscle: :boom:
 
 - Point 1
 - Point 2
 - Point 3
 
-## Task List
+## Task List :100: :+1:
 - [X] Create Task List
-- [ ] Add emojis to headlines
+- [X] Add emojis to headlines
 - [ ] Get pull request accepted
 - [ ] Squash commit history
 
