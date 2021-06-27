@@ -1,6 +1,6 @@
 # README
 
-## Overivew
+## Highlights
 
 1.  Point 1
 2.  Point 2
