@@ -18,4 +18,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing** elit. In eget enim lorem.
 
 Ut porta massa non pharetra posuere. Sed porta maximus lacinia. Donec dapibus elit non purus aliquam, ac ultrices metus dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc interdum libero at libero vestibulum, ut varius neque ornare. Aliquam quis sollicitudin libero. Suspendisse nisl magna, finibus et rutrum sed, tristique pretium ligula. Vestibulum sit amet mattis nibh. Donec scelerisque ante non ornare auctor.
 
-~ Thank you!
+Thank you!
