@@ -13,10 +13,10 @@
 - Point 3
 
 ## Task List
-[X] Create Task List
-[ ] Add emojis to headlines
-[ ] Get pull request accepted
-[ ] Squash commit history
+- [X] Create Task List
+- [ ] Add emojis to headlines
+- [ ] Get pull request accepted
+- [ ] Squash commit history
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing** elit. In eget enim lorem. Praesent pharetra dignissim sagittis. Sed magna diam, tincidunt non erat in, ullamcorper gravida lorem. Sed volutpat enim eu suscipit sollicitudin. Morbi nec nisl nec mauris dapibus aliquet sed nec nisl. Nam ut dolor sit amet massa placerat ornare. Praesent aliquam, enim at viverra dignissim, tellus lectus egestas lectus, vel posuere augue velit nec tortor. Fusce ante erat, faucibus vel velit eget, luctus hendrerit leo. Proin elementum lectus vel ipsum facilisis lobortis. Cras at rhoncus nulla. Nullam porta fringilla ligula, a tristique libero semper ut. Integer sit amet rutrum eros. Etiam a accumsan tellus, nec euismod ante. Nulla consectetur ultricies lacus, et ultricies nunc hendrerit et.
 
